@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T02:49:14 EET" name="Surefire suite" finished-at="2024-11-11T02:49:32 EET" duration-ms="18661">
+    <groups>
+    </groups>
+    <test started-at="2024-11-11T02:49:14 EET" name="Surefire test" finished-at="2024-11-11T02:49:32 EET" duration-ms="18661">
+      <class name="org.sample.TestingDemoBlaze.ContactUsTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:org.sample.TestingDemoBlaze.ContactUsTest@712625fd]" started-at="2024-11-11T02:49:14 EET" name="Setup" finished-at="2024-11-11T02:49:19 EET" duration-ms="5432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="CheckingContactUs(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.sample.TestingDemoBlaze.ContactUsTest@712625fd]" started-at="2024-11-11T02:49:20 EET" name="CheckingContactUs" data-provider="ContactUsInformation" finished-at="2024-11-11T02:49:21 EET" duration-ms="805" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ahmed70@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ahmed70]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[arewrwetswerets]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckingContactUs -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:org.sample.TestingDemoBlaze.ContactUsTest@712625fd]" started-at="2024-11-11T02:49:32 EET" name="Quit" finished-at="2024-11-11T02:49:32 EET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- org.sample.TestingDemoBlaze.ContactUsTest -->
+      <class name="org.sample.TestingDemoBlaze.InvalidLogin">
+        <test-method signature="InvalidLoginUsingWrongPass()[pri:1, instance:org.sample.TestingDemoBlaze.InvalidLogin@196a42c3]" started-at="2024-11-11T02:49:21 EET" name="InvalidLoginUsingWrongPass" finished-at="2024-11-11T02:49:22 EET" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginUsingWrongPass -->
+        <test-method signature="InvalidLoginUsingWrongUsername()[pri:0, instance:org.sample.TestingDemoBlaze.InvalidLogin@196a42c3]" started-at="2024-11-11T02:49:22 EET" name="InvalidLoginUsingWrongUsername" finished-at="2024-11-11T02:49:24 EET" depends-on-methods="org.sample.TestingDemoBlaze.InvalidLogin.InvalidLoginUsingWrongPass" duration-ms="1558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginUsingWrongUsername -->
+      </class> <!-- org.sample.TestingDemoBlaze.InvalidLogin -->
+      <class name="org.sample.TestingDemoBlaze.ProductDetailsPageTest">
+        <test-method signature="AddingRemovingMobileItemToCart()[pri:0, instance:org.sample.TestingDemoBlaze.ProductDetailsPageTest@15043a2f]" started-at="2024-11-11T02:49:25 EET" name="AddingRemovingMobileItemToCart" finished-at="2024-11-11T02:49:29 EET" duration-ms="3727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingRemovingMobileItemToCart -->
+      </class> <!-- org.sample.TestingDemoBlaze.ProductDetailsPageTest -->
+      <class name="org.sample.TestingDemoBlaze.ValidSignUp">
+        <test-method signature="ValidSignUpTC()[pri:0, instance:org.sample.TestingDemoBlaze.ValidSignUp@1349883]" started-at="2024-11-11T02:49:31 EET" name="ValidSignUpTC" finished-at="2024-11-11T02:49:32 EET" duration-ms="1217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidSignUpTC -->
+      </class> <!-- org.sample.TestingDemoBlaze.ValidSignUp -->
+      <class name="org.sample.TestingDemoBlaze.ValidLogin">
+        <test-method signature="ValidLoginTC()[pri:0, instance:org.sample.TestingDemoBlaze.ValidLogin@4a83a74a]" started-at="2024-11-11T02:49:29 EET" name="ValidLoginTC" finished-at="2024-11-11T02:49:31 EET" duration-ms="2074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginTC -->
+      </class> <!-- org.sample.TestingDemoBlaze.ValidLogin -->
+      <class name="org.sample.TestingDemoBlaze.InvalidSignUp">
+        <test-method signature="InvalidSignUpTC()[pri:1, instance:org.sample.TestingDemoBlaze.InvalidSignUp@4c60d6e9]" started-at="2024-11-11T02:49:24 EET" name="InvalidSignUpTC" finished-at="2024-11-11T02:49:25 EET" duration-ms="1578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidSignUpTC -->
+      </class> <!-- org.sample.TestingDemoBlaze.InvalidSignUp -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
