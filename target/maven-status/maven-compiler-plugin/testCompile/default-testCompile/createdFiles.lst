@@ -1,9 +1,0 @@
-org\sample\TestingDemoBlaze\ProductDetailsPageTest.class
-org\sample\TestingDemoBlaze\TestBase.class
-org\sample\TestingDemoBlaze\ValidSignUp.class
-org\sample\TestingDemoBlaze\InvalidLogin.class
-org\sample\TestingDemoBlaze\CartPageTest.class
-org\sample\TestingDemoBlaze\InvalidSignUp.class
-org\sample\TestingDemoBlaze\ContactUsTest.class
-org\sample\TestingDemoBlaze\ReadDataFromExcel.class
-org\sample\TestingDemoBlaze\ValidLogin.class
