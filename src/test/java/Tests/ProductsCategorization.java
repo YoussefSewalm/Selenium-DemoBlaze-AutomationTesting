@@ -17,7 +17,7 @@ public class ProductsCategorization extends TestBase {
 	public void VerifyProductsCategorization(Method method)
 	{
 		HomePage.Navigate();
-        startTest(method.getName(), "Verify Products Categorization");
+                startTest(method.getName(), "Verify Products Categorization");
 		Phones.Navigate();
 		FirstPhoneArticle.assertTextContains("phone");
 		Laptops.Navigate();
@@ -26,5 +26,4 @@ public class ProductsCategorization extends TestBase {
 		FirstMonitorArticle.assertTextContains("LCD");
 		Phones.Navigate();
 	}
-
 }
