@@ -1,4 +1,3 @@
 # DemoBlaze-AutomationTesting
-Used Technologies: -> Eclipse IDE -> selenium webDriver -> TestNG Framework -> POM design pattern -> Emailable reports -> Smoke testing suite -> Regression testing suite -> Excel Data Driven Data Provider
+Used Technologies: -> Eclipse IDE -> Selenium WebDriver -> TestNG Framework -> POM design pattern -> Allure reports + Attached Screenshots for Tests-> Smoke testing suite -> Regression testing suite -> JSON Data Driven
 
-::::::::::::::If You Want to Try the Code:::::::: --Change The Path of The Excel File "DemoBlaze.xlsx" According to your Path , in the ReadDataFromExcel Class
