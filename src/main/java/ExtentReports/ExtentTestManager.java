@@ -12,16 +12,16 @@ import java.util.Map;
  * At getTest() method, return the ExtentTest instance in extentTestMap by using the current thread id.
  */
 public class ExtentTestManager {
-    private static final Map<Long, ExtentTest> extentTestMap = new HashMap<>();  // ✅ Changed to Long
+    private static final Map<Long, ExtentTest> extentTestMap = new HashMap<>();  
     private static final ExtentReports extent = ExtentManager.getExtentReports();
 
     public static synchronized ExtentTest getTest() {
-        return extentTestMap.get(Thread.currentThread().threadId());  // ✅ No casting needed
+        return extentTestMap.get(Thread.currentThread().threadId()); 
     }
 
     public static synchronized ExtentTest startTest(String testName, String desc) {
         ExtentTest test = extent.createTest(testName, desc);
-        extentTestMap.put(Thread.currentThread().threadId(), test);  // ✅ No casting needed
+        extentTestMap.put(Thread.currentThread().threadId(), test); 
         return test;
     }
 }
