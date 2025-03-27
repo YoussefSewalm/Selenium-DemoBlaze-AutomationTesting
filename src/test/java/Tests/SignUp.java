@@ -21,8 +21,8 @@ public class SignUp extends TestBase {
 	@Test(groups = {"Smoke"})
 	public void ValidSignUp(Method method) throws InterruptedException
 	{
-        startTest(method.getName(), "Valid SignUp");
-        SignUp.Navigate();
+                startTest(method.getName(), "Valid SignUp");
+                SignUp.Navigate();
 		SignUpUserName.sendText(faker.name().username());
 		SignUpPassword.sendText(faker.number().toString());
 		ConfirmSignUp.Click();
@@ -32,7 +32,7 @@ public class SignUp extends TestBase {
 	@Test(groups = {"Regression"})
 	public void InValidSignUp(Method method) throws InterruptedException
 	{
-        startTest(method.getName(), "InValid SignUp");
+                startTest(method.getName(), "InValid SignUp");
 		SignUp.Navigate();
 		SignUpUserName.sendText("");
 		SignUpPassword.sendText(faker.number().toString());
@@ -42,5 +42,4 @@ public class SignUp extends TestBase {
 		Thread.sleep(600);
 		CloseSignUpMenu.Click();
 	}
-
 }
