@@ -18,20 +18,20 @@ public class DriverInitiator {
 		options.addArguments("--disable-popup-blocking");
 		options.addArguments("--disable-notifications");
 		options.addArguments("--disable-features=SidePanelPinning");
-        driver = new ChromeDriver(options);
-	    Elements.setDriver(driver);
-	    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-	    driver.navigate().to("https://www.demoblaze.com/");
-        String Actual_Title = driver.getTitle();
-	    Assert.assertEquals(Actual_Title,"STORE");
+                driver = new ChromeDriver(options);
+	        Elements.setDriver(driver);
+	        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+	        driver.navigate().to("https://www.demoblaze.com/");
+                String Actual_Title = driver.getTitle();
+	        Assert.assertEquals(Actual_Title,"STORE");
 	}
-    public static synchronized WebDriver getDriver() {
-        return driver;
-    }
+        public static synchronized WebDriver getDriver() 
+        {
+                return driver;
+        }
 	
 	public static void EndSession()
 	{
-       driver.quit();
+                driver.quit();
 	}
-
 }
