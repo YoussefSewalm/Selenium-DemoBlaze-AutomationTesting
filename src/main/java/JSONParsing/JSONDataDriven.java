@@ -10,13 +10,12 @@ import java.util.List;
 import org.apache.commons.io.FileUtils;
 
 public class JSONDataDriven {
-	public static List<HashMap<String,String>> getJsonData(String jsonFilePath) throws IOException
-	{
-     String JsonContent=FileUtils.readFileToString(new File(jsonFilePath),StandardCharsets.UTF_8);
-     ObjectMapper objectmapper = new ObjectMapper();
-     List<HashMap<String,String>> data = objectmapper.readValue(JsonContent ,
-     new TypeReference<List<HashMap<String,String>>>(){} );
-     return data;	
-	}
-
+   public static List<HashMap<String,String>> getJsonData(String jsonFilePath) throws IOException
+   {
+            String JsonContent=FileUtils.readFileToString(new File(jsonFilePath),StandardCharsets.UTF_8);
+            ObjectMapper objectmapper = new ObjectMapper();
+            List<HashMap<String,String>> data = objectmapper.readValue(JsonContent ,
+            new TypeReference<List<HashMap<String,String>>>(){} );
+            return data;	
+    }
 }
