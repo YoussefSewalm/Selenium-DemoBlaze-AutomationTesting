@@ -20,19 +20,18 @@ import coreElements.Alerts;
 
 @Listeners({ TestListener.class })
 public class Login extends TestBase{
-	
 	@DataProvider
 	public Object[][] getLoginData() throws IOException 
 	{
-	    String jsonFilePath = System.getProperty("user.dir") + "//src//test//resources//testDataFiles//LoginData.json";
-	    List<HashMap<String,String>> data = getJsonData(jsonFilePath);
-	    return new Object[][] {   { data.get(0) }   } ;
+	        String jsonFilePath = System.getProperty("user.dir") + "//src//test//resources//testDataFiles//LoginData.json";
+	        List<HashMap<String,String>> data = getJsonData(jsonFilePath);
+	        return new Object[][] {   { data.get(0) }   } ;
 	}
 	
 	@Test(dataProvider="getLoginData",groups= {"Smoke"})
 	public void ValidLogin(HashMap<String,String>input,Method method)
 	{
-        startTest(method.getName(), "Valid Login");
+                startTest(method.getName(), "Valid Login");
 		Login.Navigate();
 		LoginUserName.sendText(input.get("LoginUserName"));
 		LoginPassword.sendText(input.get("LoginPassword"));
@@ -43,7 +42,7 @@ public class Login extends TestBase{
 	@Test(groups= {"Regression"})
 	public void InValidLogin(Method method) throws InterruptedException
 	{
-        startTest(method.getName(), "InValid Login");
+                startTest(method.getName(), "InValid Login");
 		Login.Navigate();
 		LoginUserName.sendText("");
 		LoginPassword.sendText("");
@@ -53,5 +52,4 @@ public class Login extends TestBase{
 		Thread.sleep(500);
 		CloseLoginMenu.Click();
 	}
-
 }
