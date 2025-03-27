@@ -26,7 +26,7 @@ public class PlacingOrder extends TestBase{
 	{
         startTest(method.getName(), "Valid Placing Order");
         HomePage.Navigate();
-		FirstPhone.Navigate();
+        FirstPhone.Navigate();
         AddToCart.Navigate();
         Alerts.ConfirmAlert();
         HomePage.Navigate();
@@ -51,7 +51,7 @@ public class PlacingOrder extends TestBase{
 	{
         startTest(method.getName(), "InValid Placing Order");
         HomePage.Navigate();
-		FirstPhone.Navigate();
+	FirstPhone.Navigate();
         AddToCart.Navigate();
         Alerts.ConfirmAlert();
         HomePage.Navigate();
