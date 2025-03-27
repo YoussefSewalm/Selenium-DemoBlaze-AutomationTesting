@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Listeners.TestListener"/>
+    <listener class-name="Listeners.AnnotationTransformer"/>
+  </listeners>
+  <test thread-count="5" name="RegressionTests(failed)">
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Tests.Login">
+        <methods>
+          <include name="endSession"/>
+          <include name="startSession"/>
+          <include name="InValidLogin" invocation-numbers="0 0"/>
+        </methods>
+      </class> <!-- Tests.Login -->
+      <class name="Tests.ProductDetails">
+        <methods>
+          <include name="endSession"/>
+          <include name="VerifyProductDetails" invocation-numbers="0 0"/>
+          <include name="startSession"/>
+        </methods>
+      </class> <!-- Tests.ProductDetails -->
+      <class name="Tests.PlacingOrder">
+        <methods>
+          <include name="endSession"/>
+          <include name="InValidPlacingOrder" invocation-numbers="0 0"/>
+          <include name="startSession"/>
+        </methods>
+      </class> <!-- Tests.PlacingOrder -->
+      <class name="Tests.SignUp">
+        <methods>
+          <include name="InValidSignUp" invocation-numbers="0 0"/>
+          <include name="endSession"/>
+          <include name="startSession"/>
+        </methods>
+      </class> <!-- Tests.SignUp -->
+      <class name="Tests.Cart">
+        <methods>
+          <include name="endSession"/>
+          <include name="startSession"/>
+          <include name="VerifyCartPrices" invocation-numbers="0 0"/>
+        </methods>
+      </class> <!-- Tests.Cart -->
+    </classes>
+  </test> <!-- RegressionTests(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->

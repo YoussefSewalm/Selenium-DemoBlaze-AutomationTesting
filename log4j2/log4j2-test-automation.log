@@ -1,0 +1,585 @@
+[INFO ] 2025-03-27 04:27:45.693 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 04:27:45.730 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 04:27:46.523 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 04:27:46.803 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 04:27:47.773 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 04:27:47.934 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 04:27:48.879 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 04:27:49.272 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 04:27:51.257 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 04:27:51.362 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 04:27:52.330 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 04:27:52.474 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 04:27:56.955 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 04:27:57.087 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 04:28:01.517 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 04:28:01.712 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 04:28:06.607 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 04:28:06.685 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 04:28:10.569 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 04:28:10.676 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 04:28:12.282 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 04:28:12.398 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 06:33:43.775 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 06:33:43.817 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 06:33:55.075 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 06:33:55.096 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 06:35:35.224 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 06:35:35.264 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 06:35:47.727 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 06:35:47.744 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 06:38:17.957 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 06:38:17.991 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 06:38:31.028 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 06:38:31.044 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 06:56:25.775 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 06:56:25.811 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 06:56:38.009 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 06:56:38.027 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 07:00:02.205 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 07:00:02.241 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 07:00:17.768 [main] Log - InValidSignUp test is skipped.
+[INFO ] 2025-03-27 07:00:17.844 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 07:00:27.464 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 07:00:27.482 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 07:00:27.485 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 07:04:27.797 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 07:04:27.839 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 07:04:43.235 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 07:04:43.254 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 07:04:43.258 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 07:05:25.003 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 07:05:25.039 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 07:05:30.003 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 07:05:30.026 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 07:05:30.031 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 07:07:11.536 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 07:07:11.570 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 07:07:14.765 [main] Log - VerifyRemovingItemsFromCart test is failed.
+[INFO ] 2025-03-27 07:07:14.784 [main] Log - VerifyRemovingItemsFromCart test is failed.
+[INFO ] 2025-03-27 07:07:14.789 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 07:07:42.896 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 07:07:42.929 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 07:07:44.237 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 07:07:44.755 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 07:07:46.546 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 07:07:46.682 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 07:22:07.682 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 07:22:07.717 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 07:22:08.462 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 07:22:08.804 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 07:22:09.825 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 07:22:10.014 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 07:22:10.893 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 07:22:11.282 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 07:22:15.244 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 07:22:15.434 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 07:22:17.505 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 07:22:17.728 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 07:22:22.485 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 07:22:22.625 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 07:22:26.657 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 07:22:26.959 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 07:22:32.217 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 07:22:32.324 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 07:22:35.863 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 07:22:36.002 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 07:22:37.813 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 07:22:37.928 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 07:31:55.573 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 07:31:55.608 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 07:31:56.506 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 07:31:56.774 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 07:31:57.726 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 07:31:57.892 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 07:31:58.776 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 07:31:59.168 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 07:32:01.492 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 07:32:01.654 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 07:32:03.221 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 07:32:03.391 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 07:32:08.895 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 07:32:09.032 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 07:32:13.340 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 07:32:13.574 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 07:32:19.138 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 07:32:19.247 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 07:32:22.634 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 07:32:22.755 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 07:32:24.361 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 07:32:24.481 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 07:35:49.721 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 07:35:49.753 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 07:35:50.507 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 07:35:50.786 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 07:35:51.756 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 07:35:51.902 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 07:35:52.786 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 07:35:53.185 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 07:35:55.040 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 07:35:55.162 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 07:35:56.866 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 07:35:56.971 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 07:36:02.120 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 07:36:02.277 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 07:36:06.366 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 07:36:06.482 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 07:36:12.213 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 07:36:12.359 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 07:36:15.852 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 07:36:15.967 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 07:36:18.014 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 07:36:18.128 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 15:49:39.364 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 15:49:39.405 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 15:49:40.261 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 15:49:40.523 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 15:49:41.716 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 15:49:41.722 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 15:49:42.814 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 15:49:42.904 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 15:49:44.076 [main] Log - VerifyProductDetails test is skipped.
+[INFO ] 2025-03-27 15:49:44.079 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 15:49:45.119 [main] Log - VerifyProductDetails test is failed.
+[INFO ] 2025-03-27 15:49:45.263 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 15:49:46.385 [main] Log - VerifyRemovingItemsFromCart test is skipped.
+[INFO ] 2025-03-27 15:49:46.388 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 15:49:47.423 [main] Log - VerifyRemovingItemsFromCart test is failed.
+[INFO ] 2025-03-27 15:49:47.517 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 15:49:47.518 [main] Log - VerifyCartPrices test is skipped.
+[INFO ] 2025-03-27 15:49:47.520 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 15:49:48.659 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 15:49:48.662 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 15:49:49.747 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 15:49:49.837 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 15:51:43.206 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 15:51:43.240 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 15:51:44.606 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 15:51:44.862 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 15:51:45.742 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 15:51:45.859 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 15:51:50.741 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 15:51:50.870 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 15:51:56.039 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 15:51:56.158 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 15:52:02.270 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 15:52:02.392 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 15:52:06.083 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 15:52:06.180 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:11:48.296 [main] Log - I am in onStart method SmokeTests
+[INFO ] 2025-03-27 16:11:48.329 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:11:49.750 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:11:50.261 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:11:52.504 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:11:52.619 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:11:54.441 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 16:11:54.536 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 16:12:00.931 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 16:12:01.049 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:12:06.579 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:12:06.678 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:12:07.791 [main] Log - ValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:12:07.796 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:12:08.905 [main] Log - ValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:12:08.988 [main] Log - I am in onFinish method SmokeTests
+[INFO ] 2025-03-27 16:16:33.096 [main] Log - I am in onStart method SmokeTests
+[INFO ] 2025-03-27 16:16:33.130 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:16:34.595 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:16:35.113 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:16:37.313 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:16:37.428 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:16:38.933 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 16:16:39.046 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 16:16:44.654 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 16:16:44.864 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:16:49.495 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:16:49.635 [main] Log - I am in onFinish method SmokeTests
+[INFO ] 2025-03-27 16:20:19.597 [main] Log - I am in onStart method SmokeTests
+[INFO ] 2025-03-27 16:20:19.633 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:20:22.316 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:20:22.849 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:20:26.952 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:20:27.070 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:20:30.181 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 16:20:30.292 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 16:20:43.262 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 16:20:43.370 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:20:55.048 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:20:55.155 [main] Log - I am in onFinish method SmokeTests
+[INFO ] 2025-03-27 16:22:55.247 [main] Log - I am in onStart method SmokeTests
+[INFO ] 2025-03-27 16:22:55.280 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:22:56.739 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:22:57.222 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:22:59.173 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:22:59.280 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:23:00.792 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 16:23:00.904 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 16:23:07.389 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 16:23:07.508 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:23:11.988 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:23:12.119 [main] Log - I am in onFinish method SmokeTests
+[INFO ] 2025-03-27 16:25:28.456 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:25:28.489 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:25:29.785 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:25:30.001 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:25:30.933 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:25:31.053 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:25:35.763 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:25:35.892 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:25:42.074 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:25:42.172 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:26:01.201 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:26:01.206 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:26:02.243 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:26:02.325 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:28:12.766 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:28:12.799 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:28:14.095 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:28:14.330 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:28:15.282 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:28:15.413 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:28:20.350 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:28:20.480 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:28:26.373 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:28:26.471 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:28:45.292 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:28:45.297 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:28:46.340 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:28:46.424 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:29:30.480 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:29:30.516 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:29:31.843 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:29:32.072 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:29:33.030 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:29:33.179 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:29:37.707 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:29:37.835 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:29:43.848 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:29:43.941 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:30:03.005 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:30:03.010 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:30:04.090 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:30:04.172 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:35:04.775 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:35:04.809 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:35:05.736 [main] Log - InValidSignUp test is skipped.
+[INFO ] 2025-03-27 16:35:05.832 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:35:06.927 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 16:35:07.023 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:35:08.199 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 16:35:08.207 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:35:09.295 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 16:35:09.406 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:35:10.587 [main] Log - VerifyProductDetails test is skipped.
+[INFO ] 2025-03-27 16:35:10.590 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:35:11.675 [main] Log - VerifyProductDetails test is failed.
+[INFO ] 2025-03-27 16:35:11.769 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:35:12.946 [main] Log - VerifyCartPrices test is skipped.
+[INFO ] 2025-03-27 16:35:12.949 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:35:14.041 [main] Log - VerifyCartPrices test is failed.
+[INFO ] 2025-03-27 16:35:14.134 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:35:15.326 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:35:15.330 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:35:16.419 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:35:16.530 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:36:45.122 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:36:45.161 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:36:46.071 [main] Log - InValidSignUp test is skipped.
+[INFO ] 2025-03-27 16:36:46.151 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:36:47.234 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 16:36:47.347 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:36:48.492 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 16:36:48.495 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:36:49.528 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 16:36:49.629 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:36:50.826 [main] Log - VerifyProductDetails test is skipped.
+[INFO ] 2025-03-27 16:36:50.829 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:36:51.922 [main] Log - VerifyProductDetails test is failed.
+[INFO ] 2025-03-27 16:36:52.030 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:36:53.225 [main] Log - VerifyCartPrices test is skipped.
+[INFO ] 2025-03-27 16:36:53.228 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:36:54.267 [main] Log - VerifyCartPrices test is failed.
+[INFO ] 2025-03-27 16:36:54.373 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:36:55.570 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:36:55.572 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:36:56.659 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:36:56.755 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:38:15.754 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:38:15.787 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:38:16.735 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:38:17.047 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:38:18.230 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 16:38:18.236 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:38:19.325 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 16:38:19.420 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:38:20.617 [main] Log - VerifyProductDetails test is skipped.
+[INFO ] 2025-03-27 16:38:20.620 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:38:21.704 [main] Log - VerifyProductDetails test is failed.
+[INFO ] 2025-03-27 16:38:21.811 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:38:22.932 [main] Log - VerifyCartPrices test is skipped.
+[INFO ] 2025-03-27 16:38:22.934 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:38:24.027 [main] Log - VerifyCartPrices test is failed.
+[INFO ] 2025-03-27 16:38:24.120 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:38:25.328 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:38:25.332 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:38:26.368 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:38:26.464 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:40:07.123 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:40:07.156 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:40:08.566 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:40:08.776 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:40:09.735 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:40:09.855 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:40:14.318 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:40:14.448 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:40:20.979 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:40:21.092 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:40:40.909 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:40:40.915 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:40:41.995 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:40:42.078 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:42:28.795 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:42:28.826 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:42:29.719 [main] Log - InValidSignUp test is skipped.
+[INFO ] 2025-03-27 16:42:29.794 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:42:30.891 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 16:42:31.005 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:42:32.139 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 16:42:32.142 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:42:33.231 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 16:42:33.337 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:42:34.526 [main] Log - VerifyProductDetails test is skipped.
+[INFO ] 2025-03-27 16:42:34.529 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:42:35.618 [main] Log - VerifyProductDetails test is failed.
+[INFO ] 2025-03-27 16:42:35.726 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:42:36.900 [main] Log - VerifyCartPrices test is skipped.
+[INFO ] 2025-03-27 16:42:36.903 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:42:37.987 [main] Log - VerifyCartPrices test is failed.
+[INFO ] 2025-03-27 16:42:38.096 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:42:39.296 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:42:39.300 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:42:40.331 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:42:40.424 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:43:18.962 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:43:18.995 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:43:19.901 [main] Log - InValidSignUp test is skipped.
+[INFO ] 2025-03-27 16:43:19.988 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:43:21.023 [main] Log - InValidSignUp test is failed.
+[INFO ] 2025-03-27 16:43:21.134 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:43:22.306 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 16:43:22.308 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:43:23.402 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 16:43:23.523 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:43:24.703 [main] Log - VerifyProductDetails test is skipped.
+[INFO ] 2025-03-27 16:43:24.706 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:43:25.793 [main] Log - VerifyProductDetails test is failed.
+[INFO ] 2025-03-27 16:43:25.887 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:43:27.064 [main] Log - VerifyCartPrices test is skipped.
+[INFO ] 2025-03-27 16:43:27.067 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:43:28.145 [main] Log - VerifyCartPrices test is failed.
+[INFO ] 2025-03-27 16:43:28.237 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:43:29.429 [main] Log - InValidPlacingOrder test is skipped.
+[INFO ] 2025-03-27 16:43:29.433 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:43:30.522 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:43:30.631 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:43:55.620 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:43:55.654 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:43:57.069 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:43:57.302 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:43:58.309 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:43:58.412 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:44:03.801 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:44:03.929 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:44:09.560 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:44:09.659 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:44:26.545 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:44:26.548 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:45:02.509 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:45:02.548 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:45:03.933 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:45:04.163 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:45:05.115 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:45:05.261 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:45:10.562 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:45:10.709 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:45:16.642 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:45:16.741 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:45:34.260 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:45:34.265 [main] Log - InValidPlacingOrder test is failed.
+[INFO ] 2025-03-27 16:45:34.292 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:50:09.550 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 16:50:09.592 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:50:10.977 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:50:11.229 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:50:12.185 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:50:12.320 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:50:17.153 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:50:17.284 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:50:23.484 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:50:23.594 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:50:27.471 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:50:27.618 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 16:52:37.159 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 16:52:37.195 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:52:38.660 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:52:38.872 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:52:55.687 [main] Log - ValidSignUp test is skipped.
+[INFO ] 2025-03-27 16:52:55.693 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:53:12.369 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 16:53:12.492 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:53:13.427 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:53:13.820 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:53:16.339 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:53:16.444 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:53:17.892 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 16:53:18.003 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:53:22.503 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:53:22.631 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:53:27.929 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:53:28.024 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 16:53:32.771 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 16:53:32.879 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:53:36.329 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:53:36.504 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:53:40.904 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:53:41.033 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 16:55:25.301 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 16:55:25.344 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:55:27.239 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:55:27.464 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:55:39.340 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:55:39.506 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:55:40.689 [main] Log - InValidLogin test is skipped.
+[INFO ] 2025-03-27 16:55:40.694 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:55:41.782 [main] Log - InValidLogin test is failed.
+[INFO ] 2025-03-27 16:55:42.121 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:55:44.676 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:55:44.793 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:55:45.930 [main] Log - VerifyProductsCategorization test is failed.
+[INFO ] 2025-03-27 16:55:45.933 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 16:57:56.109 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 16:57:56.153 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 16:57:58.097 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 16:57:58.323 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:58:15.103 [main] Log - ValidSignUp test is skipped.
+[INFO ] 2025-03-27 16:58:15.110 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 16:58:31.743 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 16:58:31.850 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 16:58:33.238 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 16:58:33.611 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 16:58:36.100 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 16:58:36.214 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 16:58:37.688 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 16:58:37.814 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 16:58:41.642 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 16:58:41.772 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 16:58:46.654 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 16:58:46.741 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 16:58:51.470 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 16:58:51.582 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:58:55.258 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:58:55.377 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 16:58:59.472 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 16:58:59.606 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 17:01:47.637 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 17:01:47.673 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:01:49.581 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:01:49.794 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:02:06.606 [main] Log - ValidSignUp test is skipped.
+[INFO ] 2025-03-27 17:02:06.611 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:02:13.321 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:02:13.331 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:02:13.341 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 17:30:02.216 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 17:30:02.258 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:30:04.197 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:30:04.408 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:30:17.089 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:30:17.094 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:30:17.098 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 17:31:49.608 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 17:31:49.650 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:31:51.557 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:31:51.799 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:32:08.592 [main] Log - ValidSignUp test is skipped.
+[INFO ] 2025-03-27 17:32:08.598 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:32:17.459 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:32:17.471 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:32:17.474 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 17:35:40.195 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 17:35:40.228 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:35:41.628 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:35:41.861 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:35:59.166 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:35:59.321 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 17:36:38.752 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 17:36:38.786 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:36:40.185 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:36:40.404 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:36:59.113 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:36:59.226 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 17:38:22.428 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 17:38:22.464 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:38:23.870 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:38:24.104 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:38:36.958 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:38:36.964 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:38:37.112 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 17:41:35.790 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 17:41:35.831 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:41:37.259 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:41:37.494 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:41:56.161 [main] Log - ValidSignUp test is failed.
+[INFO ] 2025-03-27 17:41:56.300 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 17:42:12.454 [main] Log - I am in onStart method Default test
+[INFO ] 2025-03-27 17:42:12.486 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:42:13.908 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:42:14.144 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:42:17.776 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:42:17.919 [main] Log - I am in onFinish method Default test
+[INFO ] 2025-03-27 17:45:33.617 [main] Log - I am in onStart method AllTests
+[INFO ] 2025-03-27 17:45:33.665 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:45:35.049 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:45:35.273 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:45:36.364 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:45:36.500 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 17:45:37.391 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 17:45:37.779 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 17:45:39.802 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 17:45:39.933 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 17:45:41.533 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 17:45:41.639 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 17:45:46.566 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 17:45:46.694 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 17:45:51.855 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 17:45:51.940 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 17:45:57.265 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 17:45:57.378 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 17:46:00.178 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 17:46:00.285 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 17:46:04.946 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 17:46:05.054 [main] Log - I am in onFinish method AllTests
+[INFO ] 2025-03-27 17:47:49.032 [main] Log - I am in onStart method RegressionTests
+[INFO ] 2025-03-27 17:47:49.075 [main] Log - InValidSignUp test is starting.
+[INFO ] 2025-03-27 17:47:50.487 [main] Log - InValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:47:50.738 [main] Log - InValidLogin test is starting.
+[INFO ] 2025-03-27 17:47:51.620 [main] Log - InValidLogin test is succeed.
+[INFO ] 2025-03-27 17:47:51.729 [main] Log - VerifyProductDetails test is starting.
+[INFO ] 2025-03-27 17:47:56.444 [main] Log - VerifyProductDetails test is succeed.
+[INFO ] 2025-03-27 17:47:56.572 [main] Log - VerifyCartPrices test is starting.
+[INFO ] 2025-03-27 17:48:02.927 [main] Log - VerifyCartPrices test is succeed.
+[INFO ] 2025-03-27 17:48:03.012 [main] Log - InValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 17:48:07.476 [main] Log - InValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 17:48:07.605 [main] Log - I am in onFinish method RegressionTests
+[INFO ] 2025-03-27 17:48:37.098 [main] Log - I am in onStart method SmokeTests
+[INFO ] 2025-03-27 17:48:37.143 [main] Log - ValidSignUp test is starting.
+[INFO ] 2025-03-27 17:48:38.517 [main] Log - ValidSignUp test is succeed.
+[INFO ] 2025-03-27 17:48:39.021 [main] Log - ValidLogin test is starting.
+[INFO ] 2025-03-27 17:48:40.890 [main] Log - ValidLogin test is succeed.
+[INFO ] 2025-03-27 17:48:41.016 [main] Log - VerifyProductsCategorization test is starting.
+[INFO ] 2025-03-27 17:48:42.538 [main] Log - VerifyProductsCategorization test is succeed.
+[INFO ] 2025-03-27 17:48:42.680 [main] Log - VerifyRemovingItemsFromCart test is starting.
+[INFO ] 2025-03-27 17:48:48.862 [main] Log - VerifyRemovingItemsFromCart test is succeed.
+[INFO ] 2025-03-27 17:48:48.974 [main] Log - ValidPlacingOrder test is starting.
+[INFO ] 2025-03-27 17:48:53.108 [main] Log - ValidPlacingOrder test is succeed.
+[INFO ] 2025-03-27 17:48:53.231 [main] Log - I am in onFinish method SmokeTests
