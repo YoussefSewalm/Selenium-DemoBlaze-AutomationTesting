@@ -106,7 +106,7 @@ public class TestListener extends DriverInitiator implements ITestListener {
 
         //ExtentReports log and screenshot operations for failed tests.
         getTest().log(Status.PASS, "Test Passed",
-            getTest().addScreenCaptureFromBase64String(base64Screenshot).getModel().getMedia().get(0));
+        getTest().addScreenCaptureFromBase64String(base64Screenshot).getModel().getMedia().get(0));
     }
 
     @Override
