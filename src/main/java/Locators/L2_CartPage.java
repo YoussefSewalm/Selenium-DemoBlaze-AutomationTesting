@@ -4,9 +4,6 @@ import org.openqa.selenium.By;
 
 public class L2_CartPage {
 	
-	//Links
-	// //td[contains(text(),'Samsung galaxy s6')]/following-sibling::td[1]
-	
 	//Texts
 	public static By TotalPriceFromCartText = By.id("totalp");
 	public static By FirstPhonePriceFromCartText = By.xpath("//td[contains(text(),'Samsung')]/following-sibling::td[1]");
