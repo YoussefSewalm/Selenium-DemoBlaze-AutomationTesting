@@ -8,17 +8,18 @@ import Pages.DriverInitiator;
 
 public class TestBase extends DriverInitiator {
 	
-	@BeforeSuite(alwaysRun=true)
-	public void startSession()
+@BeforeSuite(alwaysRun=true)
+public void startSession()
 	{
 		DriverInitiator.StartSession();
 	}
-    public static synchronized WebDriver getDriver() {
-        return driver;
-    }
+public static synchronized WebDriver getDriver() 
+        {
+                return driver;
+        }
 	
-    @AfterSuite(alwaysRun=true)
-	public void endSession()
+@AfterSuite(alwaysRun=true)
+public void endSession()
 	{
 		DriverInitiator.EndSession();
 	}
